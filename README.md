@@ -1,0 +1,1 @@
+# fsl-auto-yocto-bsp
